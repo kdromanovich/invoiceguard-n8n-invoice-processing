@@ -1,0 +1,28 @@
+{
+  "project": "InvoiceGuard | AI Invoice Processing and Approval",
+  "schema_version": "1.0.0",
+  "repository": "https://github.com/kdromanovich/invoiceguard-n8n-invoice-processing",
+  "workflow_count": 1,
+  "workflows": [
+    {
+      "file": "workflows/invoiceguard-ai-invoice-processing.json",
+      "nodes_total": 56,
+      "nodes_functional": 51,
+      "documentation_notes": 5,
+      "connection_edges": 62,
+      "triggers": [
+        "Manual Trigger",
+        "POST Webhook"
+      ],
+      "external_services": [
+        "Authenticated intake webhook",
+        "Mistral OCR",
+        "OpenRouter",
+        "ERP REST adapter",
+        "Gmail",
+        "Telegram"
+      ],
+      "default_mode": "demo"
+    }
+  ]
+}

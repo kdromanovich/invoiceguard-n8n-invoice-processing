@@ -1,0 +1,10 @@
+{
+  "document_url": "http://127.0.0.1/private/invoice.pdf",
+  "file_name": "invoice.exe",
+  "mime_type": "application/octet-stream",
+  "file_size_bytes": 0,
+  "content_sha256": "not-a-sha256",
+  "source": "untrusted-test",
+  "submitted_by": "tester@example.com"
+}
+

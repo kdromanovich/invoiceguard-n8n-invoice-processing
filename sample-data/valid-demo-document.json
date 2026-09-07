@@ -1,0 +1,10 @@
+{
+  "document_url": "https://example.com/demo/invoice-inv-2026-1048.pdf",
+  "file_name": "invoice-inv-2026-1048.pdf",
+  "mime_type": "application/pdf",
+  "file_size_bytes": 284611,
+  "content_sha256": "6a0b693d2b24d4880b73c589c4e67f5989ab4339b56e0b3c8331e405ea3e5f88",
+  "source": "demo",
+  "submitted_by": "accounts.payable@example.com"
+}
+

@@ -1,0 +1,47 @@
+{
+  "vendor": {
+    "vendor_id": "VEN-0042",
+    "name": "ASTERLINE INDUSTRIAL SUPPLY LLC",
+    "tax_id": "US-94-5550123",
+    "approved": true,
+    "bank_account_last4": "4821"
+  },
+  "purchase_order": {
+    "number": "PO-2026-441",
+    "status": "open",
+    "vendor_tax_id": "US-94-5550123",
+    "currency": "USD",
+    "subtotal": 7900,
+    "tax": 632,
+    "total": 8532,
+    "line_items": [
+      {
+        "sku": "GW-200",
+        "description": "Automation gateway",
+        "ordered_quantity": 2,
+        "unit_price": 2450
+      },
+      {
+        "sku": "SVC-IMP",
+        "description": "Implementation services",
+        "ordered_quantity": 1,
+        "unit_price": 3000
+      }
+    ]
+  },
+  "goods_receipt": {
+    "number": "GR-2026-771",
+    "received_at": "2026-09-01",
+    "line_items": [
+      {
+        "sku": "GW-200",
+        "received_quantity": 2
+      },
+      {
+        "sku": "SVC-IMP",
+        "received_quantity": 1
+      }
+    ]
+  }
+}
+
