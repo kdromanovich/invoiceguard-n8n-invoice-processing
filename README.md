@@ -1,5 +1,7 @@
 # InvoiceGuard — AI Invoice Processing and Approval
 
+[![Workflow checks](https://github.com/kdromanovich/invoiceguard-n8n-invoice-processing/actions/workflows/validate.yml/badge.svg)](https://github.com/kdromanovich/invoiceguard-n8n-invoice-processing/actions/workflows/validate.yml)
+
 [Русская версия](README_RU.md) · [Architecture](docs/ARCHITECTURE.md) · [Setup](docs/SETUP.md) · [Data contracts](docs/DATA_CONTRACTS.md)
 
 An n8n workflow for invoice intake, OCR, structured field extraction, duplicate detection, financial controls, approval routing, and ERP draft creation.
